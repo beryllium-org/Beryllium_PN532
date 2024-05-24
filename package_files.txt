@@ -1,0 +1,12 @@
+mpy submodules/Adafruit_CircuitPython_PN532/adafruit_pn532/adafruit_pn532.py adafruit_pn532.mpy
+mpy submodules/Adafruit_CircuitPython_PN532/adafruit_pn532/i2c.py i2c.mpy
+mpy submodules/Adafruit_CircuitPython_PN532/adafruit_pn532/__init__.py __init__.mpy
+mpy submodules/Adafruit_CircuitPython_PN532/adafruit_pn532/spi.py spi.mpy
+mpy submodules/Adafruit_CircuitPython_PN532/adafruit_pn532/uart.py uart.mpy
+folder /bin/pn532
+folder /lib/adafruit_pn532
+file adafruit_pn532.mpy /lib/adafruit_pn532/adafruit_pn532.mpy
+file i2c.mpy /lib/adafruit_pn532/i2c.mpy
+file __init__.mpy /lib/adafruit_pn532/__init__.mpy
+file spi.mpy /lib/adafruit_pn532/spi.mpy
+file uart.mpy /lib/adafruit_pn532/uart.mpy
